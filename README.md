@@ -9,7 +9,7 @@ Login to your gmail
 Go to Security setting and Enable 2 factor authentication
 ```
 ```bash
-After enabling this you can see app passwords option. Click here!
+After enabling this you can see app passwords option. ('https://myaccount.google.com/apppasswords')!
 ```
 ```bash
 And then, from Your app passwords tab select Other option and put your app name and click GENERATE button to get new app password.
